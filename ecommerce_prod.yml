@@ -1,6 +1,6 @@
 token:
     expiration_time: 86400000
-    secret: 111111@@@user_token@@@1111111
+    secret: 111111@@@user_token@@@1111111_prod
 
 gateway:
   # 로그인 시, 접속 허용할 IP를 한정하기 위한 용도
